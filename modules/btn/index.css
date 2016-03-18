@@ -16,6 +16,7 @@
   -webkit-appearance: none;
   color: inherit;
   background-color: transparent;
+  border-radius: var(--border-radius);    
 }
 
 .btn:hover {
